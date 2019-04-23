@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{9D757F61-0016-4E42-A731-77604DE05CA6}|Default">
+  <MonoDevelop.Ide.ItemProperties.PocApi PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PocApi/Startup.cs">
+    <Files>
+      <File FileName="PocApi/Controllers/ValuesController.cs" Line="17" Column="21" />
+      <File FileName="PocApi/Startup.cs" Line="45" Column="37" />
+      <File FileName="PocApi/Program.cs" Line="25" Column="1" />
+      <File FileName="PocApi/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="PocApi/appsettings.json" Line="2" Column="2" />
+      <File FileName="PocApi/Properties/launchSettings.json" Line="7" Column="48" />
+      <File FileName="app.config" Line="6" Column="71" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PocApi" expanded="True" selected="True">
+            <Node name="Solution Items" expanded="True" />
+            <Node name="PocApi" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

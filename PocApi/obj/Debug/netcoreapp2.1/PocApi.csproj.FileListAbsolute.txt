@@ -1,0 +1,14 @@
+/Users/azad/AzadSpace/Xamarin/PocApi/PocApi/bin/Debug/netcoreapp2.1/PocApi.deps.json
+/Users/azad/AzadSpace/Xamarin/PocApi/PocApi/bin/Debug/netcoreapp2.1/PocApi.runtimeconfig.json
+/Users/azad/AzadSpace/Xamarin/PocApi/PocApi/bin/Debug/netcoreapp2.1/PocApi.runtimeconfig.dev.json
+/Users/azad/AzadSpace/Xamarin/PocApi/PocApi/bin/Debug/netcoreapp2.1/PocApi.dll
+/Users/azad/AzadSpace/Xamarin/PocApi/PocApi/bin/Debug/netcoreapp2.1/PocApi.pdb
+/Users/azad/AzadSpace/Xamarin/PocApi/PocApi/obj/Debug/netcoreapp2.1/PocApi.csprojAssemblyReference.cache
+/Users/azad/AzadSpace/Xamarin/PocApi/PocApi/obj/Debug/netcoreapp2.1/PocApi.csproj.CoreCompileInputs.cache
+/Users/azad/AzadSpace/Xamarin/PocApi/PocApi/obj/Debug/netcoreapp2.1/PocApi.RazorAssemblyInfo.cache
+/Users/azad/AzadSpace/Xamarin/PocApi/PocApi/obj/Debug/netcoreapp2.1/PocApi.RazorAssemblyInfo.cs
+/Users/azad/AzadSpace/Xamarin/PocApi/PocApi/obj/Debug/netcoreapp2.1/PocApi.AssemblyInfoInputs.cache
+/Users/azad/AzadSpace/Xamarin/PocApi/PocApi/obj/Debug/netcoreapp2.1/PocApi.AssemblyInfo.cs
+/Users/azad/AzadSpace/Xamarin/PocApi/PocApi/obj/Debug/netcoreapp2.1/PocApi.RazorTargetAssemblyInfo.cache
+/Users/azad/AzadSpace/Xamarin/PocApi/PocApi/obj/Debug/netcoreapp2.1/PocApi.dll
+/Users/azad/AzadSpace/Xamarin/PocApi/PocApi/obj/Debug/netcoreapp2.1/PocApi.pdb
